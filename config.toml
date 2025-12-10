@@ -1,0 +1,13 @@
+baseURL = "https://meguru-limited.github.io/prof/"
+publishDir = "public"
+languageCode = "ja"
+title = "About meguru_limited"
+theme = "LucentLink-Hugo"
+minVersion = "0.115.0"
+
+[params]
+  description     = "零細創作屋のプロフィール"
+  googleAnalytics = ""    
+
+[outputs]
+  home = ["HTML"]
