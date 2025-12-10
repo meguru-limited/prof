@@ -1,5 +1,5 @@
 baseURL = "https://meguru-limited.github.io/prof/"
-publishDir = "public"
+publishDir = "docs"
 languageCode = "ja"
 title = "About meguru_limited"
 theme = "LucentLink-Hugo"
