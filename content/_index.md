@@ -18,7 +18,7 @@ links:
     icon: "fas fa-globe"
     title: "Grun"
     description: "一次創作個人サイト(R-15一部R-18)"
-  - href: "https://un-works.jp"
+  - href: "https://memos.grun-works.jp"
     icon: "fas fa-book"
     title: "Memos"
     description: "個人的なつぶやきやらくがきなど"
